@@ -1,0 +1,2 @@
+rootProject.name = "Prova3B"
+include ':app'
